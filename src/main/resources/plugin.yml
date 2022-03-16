@@ -1,0 +1,8 @@
+name: CustomCinematicAction
+version: '${project.version}'
+main: me.relocation.customcinematicaction.CustomCinematicAction
+api-version: 1.16
+authors:
+    - Relocation
+depend:
+    - AbyssCinematics
